@@ -1,0 +1,2 @@
+#!/bin/bash
+java -Xmx1800m -jar "$(dirname $0)/"dist/Gcomp.jar "$@"
